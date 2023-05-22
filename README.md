@@ -19,7 +19,7 @@ add-migration "name of your migration"
 - After that, run
 
 ``` bash 
- update-database.
+ update-database
 ```
 - and now you can run it ;).
   
