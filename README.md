@@ -11,6 +11,16 @@ A small API builded with ASP.NET / swagger
 
 - Open the appsetings.jon file and change server name;
 - Open the Package Manager Console;
-- In Package Manager Console write: add-migration "name of your migration";
-- After that, run update-dabase.
+- In Package Manager Console write
+``` bash 
+add-migration "name of your migration"
+```
+
+- After that, run
+
+``` bash 
+ update-database.
+```
 - and now you can run it ;).
+  
+
